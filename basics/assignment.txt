@@ -1,0 +1,15 @@
+Ans 1-A single threaeded programming language can execute single operation at a time.example-javascript whereas multiple threaded language programming language can execute multiple operations at a time.example-java.
+Ans 2-In statically typed languages, the type of a variable is known at compile time.We need to declare the datatype before execution of code.example-java,c language.In dynamically typed languages, the type of a variable is determined at runtime.example-python
+Ans 3-High-level languages do not depend on machines. Low-level languages are machine-dependent and thus very difficult to understand by a normal user.
+Ans 4-Interpreted languages are executed line by line.example-python whereas compiled language are complied on a whole at time of execution.example-c language
+Ans 5-javascript is used in web development.
+Ans 6-properties of javascript are-interpreted language,dynamic typing
+Ans 7-output=32;32;true;false
+Ans 8-output=64 as 2 is raised to power 5 and then multiply with 2
+Ans 9-output=false as a is less than b but b is not greater than c
+Ans 10- assignment error will occur as in const we cannot redeclare or reassign any variable.
+Ans 11-undefined means a variable has been declared but has not yet been assigned a value, whereas null is an assignment value, meaning that a variable has been declared and given the value of null .
+Ans 12-value os x will be 5 and value of y will be 6
+Ans 13-the == operator simply compare the values whereas === operater strictly compares the values along with its datatype.output will be true and false respectively.
+Ans 14-output1=false output2=true output3=false
+Ans 15-value of x will be 30
